@@ -1,7 +1,8 @@
+#A Python program that gets weather information by city.
 import requests
 from pprint import pprint
 
-API_Key = '684ad6f971fd10de0223a6fab47ddb30'
+API_Key = '' #Openweathermap API key needed (removed for privacy)
 
 city = input("Enter a city: ")
 
